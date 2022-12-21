@@ -100,7 +100,7 @@ export default function ContestBanner(props) {
           <GatsbyImage
             class="img stretch clip-img"
             image={
-              data.wpPage.aCF_ContestPage.hero.localFile.childImageSharp
+              data.wpPage.ACF_ContestPage.hero.localFile.childImageSharp
                 .gatsbyImageData
             }
             alt=""
@@ -115,7 +115,7 @@ export default function ContestBanner(props) {
               />
               <hr />
               <h1 className="headline">
-                {data.wpPage.aCF_ContestPage.headline}
+                {data.wpPage.ACF_ContestPage.headline}
               </h1>
             </div>
             <p>{data.wpPage.aCF_ContestPage.subhead}</p>

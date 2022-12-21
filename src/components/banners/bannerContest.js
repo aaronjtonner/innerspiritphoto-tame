@@ -118,7 +118,7 @@ export default function ContestBanner(props) {
                 {data.wpPage.ACF_ContestPage.headline}
               </h1>
             </div>
-            <p>{data.wpPage.aCF_ContestPage.subhead}</p>
+            <p>{data.wpPage.ACF_ContestPage.subhead}</p>
             <Actions>
               <ButtonPrimary className="btn-light" to="/book-now">
                 contact us &#x2192;

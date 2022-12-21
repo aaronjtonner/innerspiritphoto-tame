@@ -6,7 +6,7 @@ import FullFaq from "../../components/faqs/fullFaq"
 import FullImageTestimonial from "../../components/testimonials/fullImageTestimonial"
 import CTA from "../../components/CTA"
 
-import Christine from "../../images/testimonials/calgary-boudoir-testimonial-christine.jpg"
+import Christine from "../../images/christine-r-tame.jpg"
 import BannerFaq from "../../components/banners/bannerFaq"
 import SEO from "../../components/seo"
 

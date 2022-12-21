@@ -117,7 +117,7 @@ export default function ReviewSlider() {
             <ItemGrid>
               <StaticImage
                 className="slider-img"
-                src="../../images/calgary-boudoir-kb-review.jpg"
+                src="../../images/kathy-b-tame.jpg"
                 alt=""
               />
               <ReviewBox
@@ -129,7 +129,7 @@ export default function ReviewSlider() {
             <ItemGrid>
               <StaticImage
                 className="slider-img"
-                src="../../images/calgary-boudoir-photography-robin.jpg"
+                src="../../images/robin-h-tame.jpg"
                 alt=""
               />
               <ReviewBox

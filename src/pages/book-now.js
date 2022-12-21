@@ -10,7 +10,7 @@ import FullImageTestimonial from "../components/testimonials/fullImageTestimonia
 import CTA from "../components/CTA"
 import SEO from "../components/seo"
 
-import Barb from "../images/testimonials/calgary-boudoir-testimonial-barb.jpg"
+import Barb from "../images/barb-s-tame.jpg"
 
 export default function BookNow() {
   return (

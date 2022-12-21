@@ -345,7 +345,7 @@ export default function HeaderBasic() {
                         gallery
                       </StyledLink>
                     </li>
-                    <li>
+                    {/* <li>
                       <StyledLink
                         to="/portfolios/books"
                         activeClassName="active"
@@ -368,7 +368,7 @@ export default function HeaderBasic() {
                       >
                         projects
                       </StyledLink>
-                    </li>
+                    </li> */}
                   </ul>
                 </Dropdown>
                 <Dropdown>

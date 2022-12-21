@@ -4,7 +4,7 @@ import BannerExperience from "../components/banners/bannerExperience"
 import Stats from "../components/stats"
 import FullImageTestimonial from "../components/testimonials/fullImageTestimonial"
 
-import BannerImg from "../images/banners/experience-banner.jpg"
+import BannerImg from "../images/banners/experience-banner-tame.jpg"
 import Kerry from "../images/testimonials/calgary-boudoir-kerry-review.jpg"
 import Renilda from "../images/testimonials/calgary-boudoir-renilda-review.jpg"
 import Deanna from "../images/testimonials/calgary-boudoir-deanna-review.jpg"
@@ -56,14 +56,14 @@ export default function Experience() {
         link="book planning session &#x2192;"
       />
       <ReassuranceVideoTestimonial />
-      <FullImageTestimonial
+      {/* <FullImageTestimonial
         img={Deanna}
         alt="review of calgary photographer"
         review="Mark sees your unspoken boundaries, and I think through respecting those boundaries, he creates the safety needed to help people heal."
         name="deanna b."
         to="/book-now"
         link="book planning session &#x2192;"
-      />
+      /> */}
       <CTA
         headline="we'll create your experience of a lifetime"
         subhead="Take the leap, we'll catch you!"

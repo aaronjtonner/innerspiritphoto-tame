@@ -17,7 +17,7 @@ export default function Investment() {
         <WrapperTextRight>
           <StaticImage
             className="img-left"
-            src="../../images/calgary-boudoir-photography-cost.png"
+            src="../../images/experience-tame-2.jpg"
             alt="calgary boudoir photography cost"
           />
           <TextBoxRight className="spacing text-right">
@@ -89,7 +89,7 @@ export default function Investment() {
           <WrapperTextRight>
             <StaticImage
               className="img-left"
-              src="../../images/special-boudoir-add-ons-calgary.jpg"
+              src="../../images/expoerience-tame-3.jpg"
               alt="special add ons calgary"
             />
             <TextBoxRight className="spacing text-right">

@@ -53,7 +53,7 @@ export default function BeyondSexy() {
         </Container>
         <StaticImage
           class="bottom-img"
-          src="../../images/beyond-sexy-nude-photos.jpg"
+          src="../../images/about-tame-3.jpg"
           alt=""
         />
       </Wrapper>

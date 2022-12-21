@@ -54,7 +54,7 @@ export default function CTA(props) {
           <Flex>
             <StaticImage
               className="stretch cta-img"
-              src="../images/book-your-calgary-boudoir-session.jpg"
+              src="../images/leap-tame.jpg"
               alt="cbook your calgary  session"
             />
             <Text className="spacing">

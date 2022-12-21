@@ -48,7 +48,7 @@ export default function WhatToDo() {
           <BottomWrapper>
             <StaticImage
               class="img-top"
-              src="../../images/bound-boudoir-photography-book-in-calgary.jpg"
+              src="../../images/experience-book-tame.jpg"
               alt="bound book of photography session"
             />
             <TextBox>
@@ -63,7 +63,7 @@ export default function WhatToDo() {
           <BottomWrapper>
             <StaticImage
               class="img-top"
-              src="../../images/boudoir-wall-art-in-calgary-2.jpg"
+              src="../../images/experience-art-tame.jpg"
               alt="wall art of photography session"
             />
             <TextBox>

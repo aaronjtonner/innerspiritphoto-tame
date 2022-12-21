@@ -157,7 +157,7 @@ export default function HowItWorks() {
           </Text>
           <StaticImage
             className="img-right"
-            src="../../images/your-boudoir-experience-awaits.jpg"
+            src="../../images/experience-tame-1.jpg"
             alt="how your experience works"
             objectFit="contain"
           />

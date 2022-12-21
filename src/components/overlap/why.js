@@ -38,7 +38,7 @@ export default function Why() {
         <WrapperTextRight>
           <StaticImage
             className="img-left"
-            src="../../images/why-we-do-nude-photography.jpg"
+            src="../../images/about-tame-1.jpg"
             alt="why we do beauty"
           />
           <TextBoxRight className="spacing text-right">
@@ -67,7 +67,7 @@ export default function Why() {
       <BottomWrapper>
         <StaticImage
           class="img-top"
-          src="../../images/doing-something-bold.jpg"
+          src="../../images/about-tame-lounge.jpg"
           alt="do something bold with photography"
         />
         <Container className="text-bottom">
@@ -100,7 +100,7 @@ export default function Why() {
           </TextBoxLeft>
           <StaticImage
             className="img-right"
-            src="../../images/something-like-nude.jpg"
+            src="../../images/about-tame-2.jpg"
             alt=""
           />
         </WrapperTextLeft>

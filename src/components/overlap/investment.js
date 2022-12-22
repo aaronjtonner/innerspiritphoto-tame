@@ -90,7 +90,7 @@ export default function Investment() {
             <StaticImage
               className="img-left"
               src="../../images/experience-tame-3.jpg"
-              alt="special add ons calgary"
+              alt="special add-ons calgary"
             />
             <TextBoxRight className="spacing text-right">
               <h3 className="subhead accent caps">

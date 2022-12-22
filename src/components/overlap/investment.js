@@ -89,7 +89,7 @@ export default function Investment() {
           <WrapperTextRight>
             <StaticImage
               className="img-left"
-              src="../../images/experience-tame-3.jpg"
+              src="../../images/experience-tame-3-add-on.jpg"
               alt="special add-ons calgary"
             />
             <TextBoxRight className="spacing text-right">

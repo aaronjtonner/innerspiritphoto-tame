@@ -129,7 +129,7 @@ export default function ReviewSlider() {
             <ItemGrid>
               <StaticImage
                 className="slider-img"
-                src="../../images/robin-h-tame.jpg"
+                src="../../images/robin-h-tame-review.jpg"
                 alt=""
               />
               <ReviewBox

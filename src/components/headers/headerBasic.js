@@ -314,12 +314,6 @@ export default function HeaderBasic() {
               </Link>
             </LogoContainer>
             <Nav>
-              <Burger nav={nav} onClick={toggleMenu}>
-                <div />
-                <div />
-                <div />
-              </Burger>
-
               <NavList nav={nav}>
                 <li>
                   <StyledLink to="/about" activeClassName="active">
@@ -412,10 +406,15 @@ export default function HeaderBasic() {
             </Nav>
             <NavCtaDesktop>
               <NavPhone href="tel: (403) 252-2662">+1 (403) 252-2662</NavPhone>
-              <GetQuote to="/book-now">
+              <GetQuote className="get-quote" to="/book-now">
                 <span>book now &#x2192;</span>
               </GetQuote>
             </NavCtaDesktop>
+            <Burger nav={nav} onClick={toggleMenu}>
+              <div />
+              <div />
+              <div />
+            </Burger>
           </Headerbottom>
         </Container>
       </Header>

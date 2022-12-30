@@ -119,7 +119,7 @@ export default function MainPageTestimonials() {
           <Video2 className="spacing">
             <div style={{ padding: "100% 0 0 0", position: "relative" }}>
               <iframe
-                src="https://player.vimeo.com/video/743209065?h=a2ba37fcfe&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+                src="https://player.vimeo.com/video/743208298?h=cace44a85b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
                 frameBorder={0}
                 allow="autoplay; fullscreen; picture-in-picture"
                 allowFullScreen
@@ -172,7 +172,7 @@ export default function MainPageTestimonials() {
           <Video2 className="spacing">
             <div style={{ padding: "100% 0 0 0", position: "relative" }}>
               <iframe
-                src="https://player.vimeo.com/video/743208298?h=cace44a85b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+                src="https://player.vimeo.com/video/743209065?h=a2ba37fcfe&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
                 frameBorder={0}
                 allow="autoplay; fullscreen; picture-in-picture"
                 allowFullScreen

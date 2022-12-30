@@ -7,7 +7,7 @@ import FullImageTestimonial from "../components/testimonials/fullImageTestimonia
 import BannerImg from "../images/banners/experience-banner-tame.jpg"
 import Kerry from "../images/testimonials/calgary-boudoir-kerry-review.jpg"
 import Renilda from "../images/renilda-f-tame.jpg"
-import Deanna from "../images/deanna-b-tame.jpg"
+import Deanna from "../images/deanna-b-tame-2.jpg"
 import HowItWorks from "../components/overlap/howItWorks"
 import Investment from "../components/overlap/investment"
 import BeyondEmpowerment from "../components/videos/beyondEmpowerment"

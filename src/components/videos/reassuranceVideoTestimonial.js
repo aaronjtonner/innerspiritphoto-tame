@@ -89,7 +89,7 @@ export default function ReassuranceVideoTestimonial() {
             </Text>
             <div style={{ padding: "56.25% 0 0 0", position: "relative" }}>
               <iframe
-                src="https://player.vimeo.com/video/743214435?h=892cd0c99b&badge=0&autopause=0&player_id=0&app_id=58479"
+                src="https://player.vimeo.com/video/743208978?h=a5f855d5b8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
                 frameBorder={0}
                 allow="autoplay; fullscreen; picture-in-picture"
                 allowFullScreen
@@ -121,7 +121,7 @@ export default function ReassuranceVideoTestimonial() {
           <Video2 className="spacing">
             <div style={{ padding: "100% 0 0 0", position: "relative" }}>
               <iframe
-                src="https://player.vimeo.com/video/743213750?h=7891e55ab4&badge=0&autopause=0&player_id=0&app_id=58479"
+                src="https://player.vimeo.com/video/743209065?h=a2ba37fcfe&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
                 frameBorder={0}
                 allow="autoplay; fullscreen; picture-in-picture"
                 allowFullScreen
@@ -148,7 +148,7 @@ export default function ReassuranceVideoTestimonial() {
           <Video2 className="spacing">
             <div style={{ padding: "100% 0 0 0", position: "relative" }}>
               <iframe
-                src="https://player.vimeo.com/video/743213628?h=412ec769f5&badge=0&autopause=0&player_id=0&app_id=58479"
+                src="https://player.vimeo.com/video/743208145?h=5bed9543eb&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
                 frameBorder={0}
                 allow="autoplay; fullscreen; picture-in-picture"
                 allowFullScreen
@@ -174,7 +174,7 @@ export default function ReassuranceVideoTestimonial() {
           <Video2 className="spacing">
             <div style={{ padding: "100% 0 0 0", position: "relative" }}>
               <iframe
-                src="https://player.vimeo.com/video/743214578?h=76cb221d47&badge=0&autopause=0&player_id=0&app_id=58479"
+                src="https://player.vimeo.com/video/743208298?h=cace44a85b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
                 frameBorder={0}
                 allow="autoplay; fullscreen; picture-in-picture"
                 allowFullScreen

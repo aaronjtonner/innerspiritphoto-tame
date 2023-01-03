@@ -1,5 +1,6 @@
 import { StaticImage } from "gatsby-plugin-image"
 import React from "react"
+import { Helmet } from "react-helmet"
 import { ButtonPrimary } from "../components/buttons"
 import CTA from "../components/CTA"
 import Diversity from "../components/diversity"
@@ -26,6 +27,12 @@ export default function Index() {
         title="See How Amazing You Truly Are | Inner Spirit Photo"
         description="Encouraging, supportive, life-changing. Build your self-esteem, love yourself more deeply, and see how amazing you truly are!"
       />
+      <Helmet>
+        <meta
+          name="facebook-domain-verification"
+          content="lbz78rp3vokdot4vcetbu1rgssv5p7"
+        />
+      </Helmet>
       <HeroBasic />
       <Stats />
       <HomeMain />

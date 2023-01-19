@@ -16,6 +16,13 @@ export const useContestQuery = () => {
               }
             }
           }
+          contestAsidePhoto {
+            localFile {
+              childImageSharp {
+                gatsbyImageData
+              }
+            }
+          }
         }
       }
     }

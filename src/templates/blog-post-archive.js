@@ -58,7 +58,7 @@ const BlogIndex = ({
   }
   return (
     <Layout>
-      <SEO title="InnerSpirit Photography - All Blog Posts" />
+      <SEO title="Inner Spirit Photography - All Blog Posts" />
       <BlogBanner
         to1="/"
         link1="Home"

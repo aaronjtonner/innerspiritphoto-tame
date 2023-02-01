@@ -32,7 +32,7 @@ export default function Contest() {
       <Container>
         <Flex>
           <ContestInfo />
-          <ContestAsidePhoto />
+          {/* <ContestAsidePhoto /> */}
         </Flex>
       </Container>
       <FormContest />
